@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://anhdle14.me/vi/about/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://anhdle14.me/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://anhdle14.me/vi/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://anhdle14.me/vi/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://anhdle14.me/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://anhdle14.me/vi/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://anhdle14.me/vi/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://anhdle14.me/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://anhdle14.me/vi/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://anhdle14.me/vi/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://anhdle14.me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://anhdle14.me/vi/"
+                />
+  </url>
+  
+</urlset>

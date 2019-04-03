@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anhdle14.me</title>
+    <link>https://anhdle14.me/</link>
+    <description>Recent content on anhdle14.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 02 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://anhdle14.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me!</title>
+      <link>https://anhdle14.me/about/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://anhdle14.me/about/</guid>
+      <description>Welcome to my blog. It is an honor to introduce myself to you guys.
+First of all, my name is Le Anh Duc, i am a Vietnamese citizen (for now). After 12 years of primary education1 in Vietnam, i went to a Japan to study bachelor &amp;rsquo;s degree in Social Sciences at Ritsumeikan APU2. My major is Social, Media, and Culture. And here i am writing a Computer Science &amp;rsquo;s blog to record what i have learned through out the year.</description>
+    </item>
+    
+  </channel>
+</rss>
